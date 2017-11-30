@@ -20,7 +20,8 @@ The smart contracts powering Chain Line run on the [NEO](https://neo.org) blockc
 ## Building the contracts
 
 * Install the [.NET Core SDK](https://www.microsoft.com/net/learn/get-started/macos#macos)
-* Install JDK 8 and Maven
+* Install JDK 8 
+* Maven `brew install maven`
 * Clone this repository and run `make`
 
 Compiled contract avm files may be found in the root directory of the project.
