@@ -19,7 +19,7 @@ The smart contracts powering Chain Line run on the [NEO](https://neo.org) blockc
 
 ## Building the contracts
 
-* Install the [.NET Core v1.1 SDK](https://github.com/dotnet/core/releases)
+* Install the [.NET Core SDK](https://www.microsoft.com/net/learn/get-started/macos#macos)
 * Install JDK 8 and Maven
 * Clone this repository and run `make`
 
